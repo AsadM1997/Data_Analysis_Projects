@@ -25,8 +25,7 @@ Here’s a growing list of my projects:
 ### 1. **Sales Dashboard**  
 - **Description:** Visualizes monthly sales, top-selling products, and revenue trends.  
 - **Technologies Used:** Looker Studio, Google Sheets, SQL  
-- **Link to Dashboard:** [View Dashboard](#)  
-- **Screenshot:**  ![Sales Dashboard Screenshot](#)
+
 
 ### 4. **Additional Projects**  
 More projects will be added over time
