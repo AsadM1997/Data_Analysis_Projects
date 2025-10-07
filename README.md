@@ -18,18 +18,6 @@ I have used a variety of tools and technologies for data analysis and visualizat
 
 ---
 
-## 📂 Projects
-
-Here’s a growing list of my projects:
-
-### 1. **Sales Dashboard**  
-- **Description:** Visualizes monthly sales, top-selling products, and revenue trends.  
-- **Technologies Used:** Looker Studio, Google Sheets, SQL  
-
-
-### 4. **Additional Projects**  
-More projects will be added over time
-
 
 ## 📌 How to Use This Repository
 
